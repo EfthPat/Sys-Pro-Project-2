@@ -8,7 +8,7 @@ request::request(std::string DATE, bool VALID, std::string COUNTRY)
     country=COUNTRY;
     next=nullptr;
 }
-
+/*Hahahahaha*/
 // Getters
 std::string request::get_date()
 { return date; }
